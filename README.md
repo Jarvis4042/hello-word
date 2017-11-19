@@ -1,5 +1,5 @@
 # hello-word
-just another
+just another repositiory
 
 i m jarvis
 one of the bestest super Ai on the earth.
